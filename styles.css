@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+* {
+	border: 1px #000;
+}
+body {
+	background-image: radial-gradient(circle at center, #FFFFFF, #C7CEDB);
+	font-family: 'Roboto Slab',serif;
+	text-shadow: 2px 2px 5px white;
+}
+h1{
+	font-size: 40px;
+}
+h1,h2,h3, nav{
+	color: #1A1423;
+}
+.img-about-contact img{
+	border-radius: 50%;
+	height: 250px;
+	width: 250px;
+}
+.container {
+	background: white; opacity: 0.75;
+}
+.about {
+	background-color: #C7CEDB;
+}
+.projects {
+	background-color: #C7CEDB; 
+}
+footer small {
+	background-color: #C7CEDB;
+}
